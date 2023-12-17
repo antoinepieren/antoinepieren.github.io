@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:antoinepieren/antoinepieren.github.io.git"
+    "url": "https://github.com/antoinepieren/antoinepieren.github.io.git"
   },
   "engines": {
     "node": ">=16.x"
